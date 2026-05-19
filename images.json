@@ -1,0 +1,174 @@
+{
+  "description": "Image catalog for The Stone Passage dungeon companion. Each image includes its public URL path and the prompt used to generate it.",
+  "baseUrl": "",
+  "images": [
+    {
+      "id": "hero-bg",
+      "path": "/hero-bg.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Home"],
+      "prompt": "Dark fantasy underground kobold tunnel system. A winding stone passage carved through dark granite, lit by flickering amber torchlight. Ancient kobold architecture with angular supports, Draconic runes carved into walls, mineral veins glinting in the dim light. Wet stone glistens, water drips from ceiling. A single small kobold silhouette with a glowing soul-lantern walks ahead into the darkness. Cinematic wide shot, matte painting style, deep shadows with warm amber accent lighting. Eberron dark fantasy aesthetic."
+    },
+    {
+      "id": "crossroads",
+      "path": "/crossroads.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session1"],
+      "prompt": "Dark fantasy horror underground. A cathedral cavern where a kobold road forks into two passages. The cavern is massive, ceiling lost in darkness. To the left: a raised stone bridge arcs over a lightless chasm. The air there is visibly colder — frost crystals glitter on the stone railings, and at the bridge's apex something burns with cold BLUE FIRE, not warm fire. To the right: a low tunnel mouth barely three feet high, barely visible heat shimmer rising from it, the faint smell of acrid smoke. Between the two paths: a standing stone carved with Draconic runes, stained with old offerings. A small kobold figure stands between the two paths, her soul-lantern swinging, tail very still, staring at the viewer. The lighting is oppressive — only the cold blue fire and the kobold lantern illuminate anything. Everything else is drowning in shadow. The mood is not adventure — it is a test you might fail. Dark fantasy horror RPG art, matte painting, cinematic, cold palette with single blue accent."
+    },
+    {
+      "id": "bridge-of-bones",
+      "path": "/bridge-of-bones.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session1"],
+      "prompt": "Dark fantasy horror underground. A narrow stone bridge arches over a bottomless lightless chasm. The bridge is eight feet wide, sixty feet long, its surface paved with flat stones but between every stone, intermingled bones have been jammed — massive dragon knucklebones the size of a human fist alongside tiny kobold finger bones, ancient yellowed ribs layered with fresh white ones, all set in patterns that resemble an unreadable script. Tiny ceramic tokens with dragonmark sigils rest among the bones. The air is freezing, breath visible. At the apex of the bridge, a desiccated skeleton sits cross-legged wearing a mold-eaten dragonbone breastplate, holding a stone lantern burning with cold BLUE FIRE that does not flicker — the light is wrong, too steady, it stares. Below the bridge: absolute blackness, but the viewer can FEEL something down there watching. The only illumination is that cold blue lantern and it casts long twisted shadows. Color palette: blacks, deep greys, cold blue, bone white. Dark fantasy horror RPG art, cinematic, matte painting, oppressive atmosphere."
+    },
+    {
+      "id": "the-crawl",
+      "path": "/the-crawl.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session1"],
+      "prompt": "Dark fantasy horror underground tunnel. A suffocatingly tight crawl space barely three feet high and four feet wide, carved through shattered dark granite and crumbling old brickwork. The walls are uncomfortably close — a changeling in heavy armor would have to remove their breastplate to fit. The floor is packed clay, worn smooth by centuries of kobold traffic, but it's WARM to the touch — body-warm, as if something inside heats it from below. The ceiling shows hairline cracks spreading like a spiderweb, with ochre-stained water slowly seeping through, drip by drip. The air is humid, clammy, hard to breathe — like being inside a mouth. Wet stone glistens in the dim lantern light. At the far end, barely visible: darkness, and the faint suggestion of something pale and segmented moving in the shadows. Carrion crawler feelers twitch at the edge of sight. The passage descends at a shallow angle then rises, twists and narrowings ahead. Color palette: warm blacks, wet browns, sickly ochre, deep shadow. Claustrophobic, oppressive, humid. Dark fantasy horror RPG art, matte painting."
+    },
+    {
+      "id": "listening-stone",
+      "path": "/listening-stone.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session1"],
+      "prompt": "Dark fantasy underground chamber. A natural cathedral cave, forty feet across, with a single stone pillar at the center — eight feet tall, three feet wide, covered in Draconic script that glows faintly azure. The floor is smooth stone worn by centuries of kobold feet. Small offerings at the base: polished river stones, ceramic tokens, a child's drawing on slate, a rusted dagger. A kobold road guide sits cross-legged before the pillar, head bowed, one hand on the stone, whispering. Her soul-lantern sits beside her, casting warm amber light that makes the azure script shimmer. Stalactites hang from the ceiling like dragon's teeth. The air is warm, welcoming — a sanctuary after the crawl and the bridge. Dark fantasy RPG art, matte painting, warm amber and azure blue lighting, intimate and sacred atmosphere."
+    },
+    {
+      "id": "mold-warrens",
+      "path": "/mold-warrens.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session1"],
+      "prompt": "Dark fantasy horror underground fungal cave. Every surface coated in a thick carpet of pulsing fungal growth, bioluminescent violet veins tracing patterns that almost look like maps. The passage is wider here, older — not kobold-work but something earlier, dwarf-height ceilings now swallowed by organic overgrowth. The floor is soft — mushroom-soft, giving underfoot. A low hum vibrates through the stone, felt in the teeth more than heard. In the center: a massive fungal colony shaped like a heart, pulsing, violet and grey, with tiny motes of spore-dust drifting through the air like snow. A single kobold figure stands at the threshold, her lantern casting weak light against the overwhelming violet glow. She does not enter. Dark palette dominated by violet, purple, and sickly green. Dark fantasy horror RPG art, matte painting, bioluminescent, oppressive and alien atmosphere."
+    },
+    {
+      "id": "iron-shrine",
+      "path": "/iron-shrine.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session1"],
+      "prompt": "Dark fantasy underground. A kobold waymarker known as the Iron Shrine. A massive wrought-iron structure shaped like a dragon's claw gripping a stone lantern — the claw is eight feet tall, five kobold hands forged together into the shape, detailed scale patterns on each finger. The stone lantern held in the claw burns with a soft orange fire. The iron is ancient, pitted with rust but still standing strong, set into a natural alcove in the passage wall. Above the claw: a small shrine niche carved into the stone, containing offerings — polished river stones, tiny ceramic tokens, a small bone whistle, a child's drawing scratched on slate. Draconic script is carved into the wall beside the claw. The floor before the shrine shows centuries of kobold footprints worn into stone. A single kobold road guide sits cross-legged before it, her back to the viewer, head bowed. Warm orange light from the lantern is the only illumination. Dark, intimate, sacred. Dark fantasy RPG art, matte painting, warm orange light against deep shadow."
+    },
+    {
+      "id": "tharashk-camp",
+      "path": "/tharashk-camp.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session2"],
+      "prompt": "Dark fantasy underground mercenary camp. A large natural cavern converted into a military encampment — House Tharashk colors (forest green and brown) on banners and supply crates. Three distinct zones visible: a command post with a table covered in maps and a sending stone, a barracks area with bedrolls and mercenaries playing dice, and a storage area with Tharashk-branded crates and mining equipment. A central fire pit provides the main light, casting harsh shadows. Iron cages in one corner — one holds a prisoner, another is empty. A half-orc woman in Tharashk armor moves through the camp with authority. Mercenaries wear mismatched armor — some Tharashk-issue, some personal. Tharashk dragonshard compass emblem visible on a banner. The atmosphere is professional, watchful, temporary — soldiers on a job, not fanatics. Dark fantasy RPG art, matte painting, warm firelight against cold stone, military organization in a cave."
+    },
+    {
+      "id": "last-spring",
+      "path": "/last-spring.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session2"],
+      "prompt": "Dark fantasy underground cave pool. A modest natural spring in a rough stone cavern — not magical, not sparkly. The pool is maybe fifteen feet across, the water is clear and still, reflecting the cavern ceiling. The surrounding stone is rough natural cave, NOT elaborately carved — some simple Draconic graffiti scratched into the walls by travelers over centuries: names, dates, a few prayers to the Sovereign Host. Near the water's edge: EVIDENCE OF GARGOYLES — broken stone feathers scattered on the ground, claw marks in the stone near the pool, a half-eaten cave fish, droppings that sparkle slightly (gargoyles are living stone). A narrow ledge above the pool has been used as a perch — the stone is polished smooth from repeated landings. The lighting is dim — just a traveler's lantern sitting on a rock, casting warm orange light that doesn't reach the far corners of the cave. Moss grows near the water. It's peaceful but in a mundane way — like finding a roadside stream, not a magical wonderland. No crystals, no glowing runes, no sparkly effects. Just water, stone, and the signs that something winged and stony has been here recently. Dark fantasy RPG art, matte painting, muted warm tones."
+    },
+    {
+      "id": "paluur-draal",
+      "path": "/paluur-draal.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session2"],
+      "prompt": "Dark fantasy post-apocalyptic surface ruins. Paluur Draal — a massive Dhakaani hobgoblin city-state in the Seawall Mountains, destroyed 9,000 years ago during the Daelkyr War. The scene is SURFACE, not underground — pale grey mountain sky visible through broken archways and collapsed ceilings. Massive brutalist angular stonework stretches across a mountain plateau: hexagonal pillars three stories tall, sharp geometric archways, triangular fortification walls with goblinoid script carved deep into every surface. Everything is built on a scale that dwarfs humans — doorways fifteen feet high, stairs with risers too tall for human comfort. A toppled statue of a Dhakaani hobgoblin warrior in full plate armor lies in the central plaza, its face eroded by millennia of mountain weather. CRUCIALLY — daelkyr corruption is visible everywhere: purple-black organic tendrils grow from cracks in the stone like cancerous vines wrapping around pillars, bulbous violet growths pulse with inner bioluminescence, and the stonework itself is subtly twisted — corners melted and rounded as if briefly made fluid by Xoriat's touch. Tharashk mining equipment sits abandoned near the corruption line — crates, a broken pickaxe, surveyor tripod. The atmosphere is vast, open, mountain wind blowing through broken archways. Not a dark cave — a dead city under a grey sky where something alien has been growing for nine thousand years. Dark fantasy horror RPG art, matte painting, cinematic wide shot."
+    },
+    {
+      "id": "the-breach",
+      "path": "/the-breach.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session2"],
+      "prompt": "Dark fantasy Eberron setting. The Breach — a vast Dhakaani underground cavern that was once a war-forge chamber. Massive angular stonework with collapsed pillars and broken hobgoblin statues. At the center: a magma vent glowing orange-red, casting hellish light. Above it on a stone ledge perches a large drake — not a generic dragon, but something with armor-like scales that seem fused with metal, Dhakaani forge-marks visible on its hide. Its eyes glow with inner fire. Ancient Dhakaani forge equipment surrounds the chamber — anvils, cooling pools, broken war-machines. The drake is a guardian of this place, awakened from long slumber. Smoke, heat shimmer, oppressive atmosphere. Cinematic matte painting, dark fantasy."
+    },
+    {
+      "id": "sealed-corridor",
+      "path": "/sealed-corridor.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session2"],
+      "prompt": "Dark fantasy Eberron setting. An ancient sealed gate in a Dhakaani underground complex. The gate is a massive wall of dark stone covered in goblinoid script and carved warning sigils — triangular patterns, hobgoblin faces in anguish, the symbol of the daelkyr (an eye within a twisting spiral). Purple-black corruption seeps from the cracks around the gate edges — not fire, not shadow, but something wrong, something that bends the stone slightly. The gate is bound with bands of dull iron etched with duur'kala (dirge singer) warding runes. A single kobold-sized figure stands before it, lantern raised, studying the seals. The atmosphere is oppressive — this gate was sealed for a reason, and whatever is behind it is worse than anything outside. Dark fantasy, matte painting, cinematic lighting."
+    },
+    {
+      "id": "the-joining",
+      "path": "/the-joining.jpg",
+      "ratio": "16:9",
+      "usedOn": ["Session2"],
+      "prompt": "Dark fantasy Eberron scene. A wounded human woman in leather armor (the Vadalis splicer) stands at the edge of a Dhakaani underground plaza, meeting a party of adventurers who emerge from a dark passage. The splicer is bandaged, holding a crossbow, with a pack animal behind her. The adventurers are silhouetted in the passage mouth — six figures of varying sizes (including a small goblin, a tall warforged, and a large gargoyle-like silhouette). The Dhakaani ruins surround them — massive angular stonework, broken hobgoblin statues, goblinoid script on pillars. Bioluminescent fungi provide the only light. This is The Joining — a new ally meets the party. Cinematic, matte painting style, dark fantasy."
+    },
+    {
+      "id": "npc-kixil",
+      "path": "/npc-kixil.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs"],
+      "prompt": "Dark fantasy Eberron character portrait. A female kobold road guide standing in a torch-lit underground tunnel. Compact, scarred body with one cloudy white eye that seems to look in a different direction than the other. Her good eye is sharp amber, watchful. She wears practical traveler's leathers — a weathered coat with patches, a small pack, worn boots. Around her neck: a leather cord with small bone tokens and a single soul-lantern that glows warm orange. Her scales are mottled grey-green, showing her age. She holds a walking staff carved with Draconic road marks. Expression: gruff, tired, competent — someone who has walked the same road thirty-one times and knows every stone. Dark fantasy RPG portrait, realistic digital painting, warm torchlight against deep shadow."
+    },
+    {
+      "id": "npc-halvern",
+      "path": "/npc-halvern.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs"],
+      "prompt": "Dark fantasy Eberron character portrait. A half-orc mercenary captain in her thirties, sitting at a rough wooden table in an underground camp, studying a map by lantern light. She wears functional leather-and-steel armor with the Tharashk dragonshard compass emblem on her breastplate. Dark brown hair pulled back in a practical braid. A thin scar runs from her left temple to her jaw — old, healed. Her eyes are calculating, professional — someone who knows her business is illegal and is being paid well to keep quiet. On the table: a sending stone, a Tharashk surveyor's map, and a half-empty flask of Karrnathi spirits. Behind her: mercenary camp, firelight, supply crates. Dark fantasy RPG portrait, realistic digital painting, warm firelight against cold stone."
+    },
+    {
+      "id": "npc-vrathek",
+      "path": "/npc-vrathek.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs"],
+      "prompt": "Dark fantasy Eberron character portrait. Vrathek — a female kobold chieftain of the Haka'jhar clan. Mature, authoritative, scarred. Dark bronze scales with a streak of silver along her spine. Wears functional chief's regalia — a mantle of cave-bear fur over a leather hauberk, a crown of woven silver wire set with small Khyber shards. Her eyes are sharp and calculating. She carries a stone-headed mace carved with Haka'jhar clan marks. Behind her: the interior of a kobold warren-cave, with clan banners and a rough-hewn stone throne. She is a pragmatist, a leader, not a villain. Realistic digital painting, dark fantasy RPG art style."
+    },
+    {
+      "id": "npc-skaleth",
+      "path": "/npc-skaleth.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs"],
+      "prompt": "Dark fantasy Eberron character portrait. An elderly kobold shaman — Skaleth, a Haka'jhar blood seer. Deep crimson scales faded to dark rust with age. Intense amber eyes that seem to see through you. Wears layered robes of dark leather and woven cave-fiber, hung with small bone tokens and blood-crystal pendants. Her claws are stained with ritual pigments. She holds a carved bone staff topped with a small Khyber shard that glows faintly violet. Behind her: a cave wall painted with ancient kobold ritual markings — dragon silhouettes, blood drops, the Mark of Death. Ominous, wise, unsettling presence. Realistic digital painting, dark fantasy RPG art style."
+    },
+    {
+      "id": "npc-dresh",
+      "path": "/npc-dresh.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs"],
+      "prompt": "Dark fantasy Eberron character portrait. Dresh Vane — a half-orc House Tharashk operative bearing the Mark of Finding on his neck — a stylized eye-and-track pattern in blue. Lean, patient, weathered face with a permanent squint from tracking across mountain terrain. Wears practical Tharashk-issue leather armor in forest green and brown, a heavy cloak with the dragonshard compass emblem. Carries a dragonshard focus on a leather cord around his neck. His eyes are a piercing pale green that seems to look through obstacles. Behind him: a dark mountain tunnel, his hand touching the wall as if reading tracks in the stone. Methodical, cold, patient. Dark fantasy RPG portrait, realistic digital painting, moody lighting."
+    },
+    {
+      "id": "npc-breck",
+      "path": "/npc-breck.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs"],
+      "prompt": "Dark fantasy Eberron character portrait. Breck Solvar — a massive human Tharashk contractor, bounty hunter enforcer. Broad-shouldered, thick neck, hands like slabs of meat. Cropped black hair, a nose that has been broken multiple times, and small dark eyes that look flat and mean. Wears heavy scale armor reinforced with steel plates, the Tharashk dragonshard compass painted crudely on his breastplate. Carries a greataxe across his back and manacles on his belt. Not stupid — cunning in the way a predator is cunning. Behind him: the interior of a mercenary camp, firelight, rough. Dark fantasy RPG portrait, realistic digital painting, harsh firelight."
+    },
+    {
+      "id": "npc-splicer",
+      "path": "/npc-splicer.jpg",
+      "ratio": "3:4",
+      "usedOn": ["NPCs", "Session2"],
+      "prompt": "Dark fantasy Eberron character portrait. A female House Vadalis splicer — wounded, blood on her leather armor, sitting against a piece of fallen Dhakaani stonework in an underground ruin. She has a dragonmark on her forearm (Mark of Handling — stylized animal patterns). Her gear is torn and scorched. She holds a crossbow across her lap, the string frayed. Behind her, the silhouettes of gargoyles perch on ruined pillars. Her expression is exhausted but alert — she has been fighting for days. Dark cave lighting with bioluminescent glow from fungi. Realistic digital painting, dark fantasy RPG art style."
+    },
+    {
+      "id": "map-crossroads",
+      "path": "/map-crossroads.jpg",
+      "ratio": "1:1",
+      "usedOn": ["BattleMaps"],
+      "prompt": "Top-down battle map for tabletop RPG. A natural underground cavern that forks into two passages. Left passage leads to a raised stone bridge over a chasm. Right passage leads to a low tunnel. A central standing stone with Draconic runes. Gridless. Dark stone floor with mineral veins. Dry brush style with ink outlines, parchment texture, muted colors — brown, grey, ochre. D&D battle map style, top-down view, tactical map."
+    },
+    {
+      "id": "map-bridge",
+      "path": "/map-bridge.jpg",
+      "ratio": "1:1",
+      "usedOn": ["BattleMaps"],
+      "prompt": "Top-down battle map for tabletop RPG. A stone bridge arches across a chasm. Sixty feet long, eight feet wide. The bridge surface shows intermingled bones between paving stones — a mix of large dragon bones and small kobold bones. A skeleton sits cross-legged at the apex. The chasm below is drawn as a dark pit. Gridless. Dry brush style with ink outlines, parchment texture, muted colors — brown, grey, bone white. D&D battle map style, top-down view, tactical map."
+    },
+    {
+      "id": "map-camp",
+      "path": "/map-camp.jpg",
+      "ratio": "1:1",
+      "usedOn": ["BattleMaps"],
+      "prompt": "Top-down battle map for tabletop RPG. A large underground cavern converted to a mercenary camp. Three zones: command post (table, maps, sending stone), barracks (bedrolls, fire pit), storage (crates, equipment). Iron cages in one corner. Gridless. Dry brush style with ink outlines, parchment texture, muted colors — brown, grey, Tharashk green accents. D&D battle map style, top-down view, tactical map."
+    },
+    {
+      "id": "map-breach",
+      "path": "/map-breach.jpg",
+      "ratio": "1:1",
+      "usedOn": ["BattleMaps"],
+      "prompt": "Top-down battle map for tabletop RPG. A massive cavern with a central magma vent (orange glow). Broken pillars for half cover. A raised ledge on one side. Two ancient statues flank the entrance. Cracked southwest ceiling section. A stone platform for the drake. Gridless. Dry brush style with ink outlines, parchment texture, muted colors — grey, orange, black. D&D battle map style, top-down view, tactical map."
+    }
+  ]
+}

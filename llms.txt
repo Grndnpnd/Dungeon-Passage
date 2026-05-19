@@ -1,0 +1,732 @@
+# THE STONE PASSAGE — An Eberron Dungeon Adventure
+
+This document contains the complete adventure content for "The Stone Passage," a two-session dungeon crawl set in the Eberron campaign world. It includes all read-aloud text, NPC profiles, encounter statistics, reference tables, and image generation prompts.
+
+---
+
+## CAMPAIGN CONTEXT
+
+### The Party: The Lost
+
+| PC | Race/Class | Notes |
+|---|---|---|
+| Gnoggin | Goblin Bard (Cutting Words) | Mark of Hospitality. Fast-talking, ambitious. |
+| Reeks | Changeling Cleric (Traveler) | Mark of Passage. Heavy armor. |
+| Clank | Warforged Champion Fighter | Autonomous. NOT a construct — a full person. |
+| Vaerek | Goliath Winter Walker Ranger | Big, quiet, ice-magic. |
+| Cyrus | Tiefling Gunslinger | **Mark of Death** — the most politically incendiary dragonmark in Khorvaire. Flagged by the Trust as maximum priority. |
+| Clarari | Kalashtar Demon Warlock | **Mark of Death** — shares the burden with Cyrus. |
+
+A **Vadalis splicer** (wounded House Vadalis operative) joins at Paluur Draal as the seventh party member.
+
+### The Plot
+
+**Vrathek**, chieftain of the **Haka'jhar** kobold clan, met the party at her warren and struck a deal:
+1. **Clear the Tharashk illegal prospecting operation** that has broken into Haka'jhar territory
+2. **Carry word to Mirveth Lethis**, junior archivist at the Library of Korranberg
+3. In exchange: **safe passage through the kobold tunnels** (the Stone Passage)
+
+**The Bounty**: A **Black Seal contract worth 30,000 gold** issued through House Tharashk, with portraits accurate enough to suggest an inside informant. Hunters: **Dresh Vane** (Mark of Finding) and **Breck Solvar** (Tharashk contractor).
+
+**The Mark of Death**: **Skaleth**, Haka'jhar blood seer, already recognized the Mark of Death on Cyrus and Clarari. This is the campaign's central dragonmark thread. Skaleth is why the party is "resource not threat" to the kobolds.
+
+**The Trust**: Cyrus is flagged by the Trust as maximum priority. The Trust meeting happens later, in Korranberg, on Trust terms, about the Mark of Death.
+
+### Setting: The Stone Passage
+
+A 10-day kobold road through the Seawall Mountains, connecting surface settlements to Paluur Draal. Not a dungeon — a **highway**, maintained for centuries by the Haka'jhar clan. Forks over flow, layered reveals, the clock is always ticking.
+
+---
+
+## SESSION 1: The Road Under
+
+**Subtitle**: "The road gives nothing. The road takes nothing. The road only watches. But at the crossroads, the road asks."
+
+**Legs**: Crossroads → Bridge of Bones → The Crawl → Listening Stone → Mold Warrens → Iron Shrine
+
+---
+
+### TRAVEL SEGMENT 1: The Approach (Surface → Crossroads)
+**Duration**: Day 1-2
+
+**Read Aloud**:
+"The rope descent takes forty feet through a column of cold, still air. Your lantern light catches glittering mineral veins in the shaft walls — quartz and something darker, something that seems to drink the light rather than reflect it. When your boots finally touch stone, you find yourselves in a passage that predates your civilization.
+
+The ceiling is ten feet high, carved in smooth arches by hands that were not human and not dwarf. The walls bear frescoes: kobolds building, dragons watching, a road winding through stone. The colors are faded but the shapes are unmistakable. Kixil is waiting at the bottom of the rope, her soul-lantern already lit. She does not greet you. She simply turns and begins walking. 'The road does not wait,' she says over her shoulder. 'The road does not hurry. Match its pace or fall behind.'
+
+The passage winds downward at a gentle slope. Water drips from somewhere above, each drop echoing like a footstep. After two hours, you reach the first waymarker: a carved stone pillar bearing a single Draconic rune. Kixil touches it briefly, almost reverently. 'Marking the count,' she murmurs. 'Everyone who passes leaves something here. Some leave tokens. Some leave names. Some leave only footprints.' She glances at you. 'What will you leave?'"
+
+**Travel Choice — The First Waymarker**:
+- **The Worn Road** (faster, 1 day): Well-traveled by kobolds. Deep Jaw Alert clock starts at 1 (patrols have seen you).
+- **The Forgotten Road** (longer, 2 days): Older passage, mostly collapsed. No initial alert. DC 12 Athletics or lose a hit die from scrapes.
+
+**Travel Hazard — Kobold Patrol** (Worn Road only):
+"You hear them before you see them — clicking of scales on stone. Around a bend, three figures freeze in your lantern light. They wear leather armor marked with a jaw-symbol."
+- Resolution: DC 14 Persuasion (Kixil rolls with +2 if Trust >= 5). Or combat: 3 Deep Jaw Scouts (AC 13, HP 12, shortsword +4, 1d6+2).
+- Kixil: "Deep Jaws. They know I'm here now. They know I'm with surface folk."
+
+**Kixil Moment**:
+- Trust 1-3: "Not used to company at night."
+- Trust 4-6: "Thirty-one crossings. Never spent one with... people like you. Usually it's just me and the dark."
+- Trust 7-10: "My mother walked this road. Her mother before her. I'm the last of my clutch who still walks it."
+
+**Urgency**: Deep Road Clock +1
+
+---
+
+### ROOM 1: Whispering Crossroads
+
+**Type**: Exploration (fork)
+
+**Read Aloud**:
+"Cold first — the particular stillness of air that has not moved in a long time. Then your eyes adjust. The passage has opened into a cathedral cavern where the kobold road forks. To the left, a raised stone bridge arcs over a lightless chasm. The air there is colder still, and something flickers at its apex — not warm fire, but cold blue light. To the right, a low tunnel mouth barely three feet high. From it: a breeze, and the faint smell of wet stone and something acrid. Kixil stops. She does not look at either path. She looks at you. Her tail is very still."
+
+**Foreshadowing**:
+- Day 2: Kixil pointed out a smoke stain on the ceiling. "Bad air that way."
+- A merchant said: "The bridge is the fastest way, but the dead don't like being disturbed."
+- Kixil's proverb this morning: "The road gives nothing. The road takes nothing. The road only watches. But at the crossroads, the road asks."
+
+**The Two Paths**:
+- **Left → Bridge of Bones** (Smoke Road, 6 hours): The quick path. Vrix the Bone-Warden watches from the apex. DC 10 Perception to notice cold blue lantern light.
+- **Right → The Crawl** (3 hours): The low road through warm, humid passages. Faster but tighter.
+
+**Kixil Input** (Trust 4+ reveals more):
+- Trust 1-3: "Bridge is bridge. Cross or don't. Not my job to decide."
+- Trust 4-6: "The bridge is the road's road. Quick, but the dead are proud. Walk soft. Speak softer."
+- Trust 7-10: "Vrix was my ancestor. She watches. She judges. If you mean no harm, she knows."
+
+---
+
+### TRAVEL SEGMENT 2: Crossroads → Bridge of Bones
+**Duration**: Day 2, 6 hours
+
+**Read Aloud**:
+"The Smoke Road earns its name within the first hour. The air grows thick — not with flame-smoke but with something older, something mineral and acrid that catches in the throat and stings the eyes. Kixil produces roughspun cloth masks from her pack. 'Tear them to fit,' she says. 'The bad air here goes deep. Some travelers cough blood after this passage. Some never stop coughing.'
+
+The walls are black with soot, but the soot has patterns — handprints, hundreds of them, pressed into the stone by travelers seeking balance in the choking dark. And the sound — a low, constant whistling from somewhere ahead, like wind through a broken flute. 'The Fire Throat,' Kixil says, though you see no flame. 'It breathes. It has always breathed.'"
+
+**Travel Choice — The Smoke Fork**:
+- **Kixil's Path** (kobold tunnel, 2h faster): DC 14 DEX or half speed. Fail = 1d4 bludgeoning. Trust +1.
+- **Main Passage** (human-height, 2h slower): DC 12 CON/hour or exhaustion.
+
+**Travel Hazard — The Dead Scout**:
+"A small chamber with a crack in the ceiling — fresh air pours down. A dead kobold sits in the corner, desiccated, clutching a journal. DC 13 Investigation: map of bridge ahead + warning 'Vrix does not sleep. Vrix waits.'"
+
+**Kixil Moment** (if journal found):
+- Trust 6-10: "Nisk. My clutch-sister's friend. She walked alone. The road punished her for it."
+
+---
+
+### ROOM 2A: Bridge of Bones
+
+**Type**: Puzzle/Social (trop FLIPPED — taking a bone = proper respect)
+
+**Read Aloud**:
+"The smell hits first — marrow and old glue, the bone-lashings are fresh. Then you see it: sixty feet of bridge, eight feet wide, arcing over a chasm of unknowable depth. The surface is paved with flat stones, but between every stone, intermingled dragon and kobold bones have been laid — dragon knucklebones the size of a fist alongside kobold finger bones, ancient ribs layered with modern ones — set in patterns that resemble script. Tiny ceramic tokens bearing dragonmarks rest among the bones. The air is cold and still, with that particular quality of air near deep water — pressure on your ears, weight on your shoulders. At the apex, a skeleton sits cross-legged, draped in moldering cloth, wearing a dragonbone breastplate, holding a stone lantern that burns with cold blue fire. The light does not flicker. It stares."
+
+**The Reverence Ladder (FLIPPED)**:
+The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party that leaves everything alone has FAILED.
+
+| Tier | Action | Result |
+|------|--------|--------|
+| Disrespect | Mocking the bones, defacing, urinating | Chasm Trap triggers immediately. Everyone DC 14 DEX or fall (4d6 bludgeoning + restrained). Vrix animates and attacks. |
+| Partial | Silent crossing, no interaction | Bridge sways. DC 12 WIS or vertigo for 1 minute. Vrix watches but does not act. The dead are not pleased, but not offended enough to act. |
+| Proper | Take a bone token, carry it forward | Bridge is stable. Vrix nods. The dead are remembered. Gain "Bone Token" — advantage on one CHA check with kobolds. |
+| Excessive | Leaving offerings, bowing, groveling | Vrix despises weakness. Bridge sways violently. DC 14 DEX or fall. Vrix's voice: "The road does not reward cowards." |
+
+**Vrix the Bone-Warden** (if combat triggers):
+- AC 14, HP 52, Speed 0 (immobile)
+- Cold Fire Lantern: +6, 2d8 cold, DC 14 CON or speed halved
+- Bone Shatter (recharge 5-6): DC 14 DEX, 3d6 piercing + restrained by bone fragments
+- Spectral Resistance: resistant to non-magical damage
+
+**DM Guidance**: "The bridge rewards the bold, not the meek. The party that walks with confidence and takes a token has passed. The party that grovels has misunderstood the lesson."
+
+---
+
+### TRAVEL SEGMENT 3: Bridge of Bones → The Crawl
+**Duration**: 2 hours
+
+**Read Aloud**:
+"After the bridge, the passage seems to exhale. The cold of the chasm fades, replaced by warmth — not the welcome warmth of a fire but the clammy warmth of a sickroom. The walls close in gradually, so gradually you don't notice until your shoulders brush stone. The ceiling drops. Water runs down the walls — ochre-stained, heavy with iron. And the smell: wet earth, hot stone, and underneath it all, something organic. Something alive."
+
+**Travel Choice — The Three Ways**:
+- Left (Safe Road): +2h, no hazards. Kixil prefers this.
+- Right (Warm Road): Normal time, but inhabitants. (See Hazard)
+- Center (The Deep): Kixil refuses. "I will not follow." Trust -2. Deadly encounter.
+
+**Travel Hazard — The Wet Ones** (Right Road):
+"Five heads break the surface — salamanders the size of dogs with blind white eyes and too many teeth. 'Cave-maws,' Kixil whispers. 'Don't move fast. Don't show fear. They bite what runs.'"
+- DC 14 Animal Handling: Calm them, pass safely.
+- Feed 2 rations: They accept, retreat.
+- Fight: 5 Giant Fire Beetles (AC 13, HP 8, fire glands, 1d6+1 fire).
+- Run: DC 16 DEX or 1d8 piercing + water-borne illness.
+
+**Kixil Moment**:
+- Trust 6-10: "My sister died on the warm road. She slipped. Hit her head. Drowned in six inches of water."
+
+---
+
+### ROOM 2B: The Crawl
+
+**Type**: Puzzle/Combat (squeeze passage)
+
+**Read Aloud**:
+"The air is wrong before you even enter — warm, humid, carrying the mineral tang of deep groundwater. The tunnel mouth is a 3-foot-high, 4-foot-wide oval carved through shattered granite and old brickwork. The floor is packed clay, worn smooth by kobold traffic, warm to the touch — not cold stone, but body-warm, as if something inside heats it. The ceiling shows hairline cracks that spread like a web. Two hundred feet of not-straight: twists, narrowings, two small chambers, then the exit. And the sounds — above the drip of water, beneath the creak of settling stone — something breathes. Something waits."
+
+**The Squeeze**: DC 14 DEX (Athletics) to navigate at normal speed. Fail: half speed, 1d4 bludgeoning from scrapes. Heavy armor: disadvantage.
+
+**The Choker** (lurks at the halfway chamber):
+- AC 14, HP 22, Speed 30ft climb
+- +5 to hit, 1d6+3 bludgeoning + grapple (DC 14 escape)
+- Choke: grappled target DC 14 CON or begin suffocating
+- Camouflage: looks like cave ceiling, DC 18 Perception to spot before it strikes
+
+**DM Note**: The choker drops from above. If the party is moving slowly and quietly, give DC 16 Perception to spot it. If they're loud or fast, it gets surprise.
+
+---
+
+### TRAVEL SEGMENT 4: The Crawl → Listening Stone
+**Duration**: 3 hours
+
+**Read Aloud**:
+"After the crawl, the passage opens like a flower blooming in time-lapse. Three feet becomes six. Six becomes ten. Ten becomes a cathedral. Stalactites hang like dragon's teeth. The floor is a lake of perfectly still water, mirror-black, reflecting the stalactites above so perfectly that for a moment you lose track of which way is up. A narrow path of stepping stones crosses the lake — each stone carved with a different rune. Kixil steps onto the first stone without hesitation. 'The Watcher's Pool,' she says. 'Don't look into the water too long. It shows you things. Not true things. Just... things you haven't admitted to yourself yet.'"
+
+**Travel Choice — The Watcher's Pool**:
+- Look: DC 13 WIS save. Success: advantage next Insight. Failure: frightened 1 minute.
+- Don't look: No effect. Kixil approves. Trust +1.
+
+**Travel Hazard — The Sinking Stone**:
+"The fifth stepping stone wobbles. DC 13 DEX save or foot goes in — 1d4 cold damage."
+
+**Kixil Moment**:
+- Trust 7-10: "I've thought about adding my own name. Just in case. The thirty-second crossing where I don't come back."
+
+---
+
+### ROOM 3: Listening Stone
+
+**Type**: Social/Rest (the ONE magical water beat — Kixil's emotional thaw)
+
+**Read Aloud**:
+"Sound first — a whisper carries clearly across the chamber, but your own footsteps sound muffled, distant, as if the stone absorbs them. The passage has opened into a small cathedral cave, perhaps forty feet across. At the center: a single stone pillar, eight feet tall, three feet wide, covered in Draconic script that glows faintly azure. The floor is smooth, worn by centuries of kobold feet. Small offerings at the base — ceramic tokens, polished stones, a child's drawing, a rusted dagger. The air is warm. Welcoming. After the bridge and the crawl, it feels like an embrace."
+
+**The Listening Stone**: Speaking a name to the stone causes it to glow brighter. Speaking a secret causes the azure script to rearrange into a new pattern — a different Draconic proverb. Skaleth's blood-mark is carved at the base.
+
+**Kixil's Campfire Conversation** (Trust 5+, this is where she thaws):
+- "Why do you walk this road?" → "Someone must. The road forgets if no one walks it."
+- "What happened to the first group?" → "They did not respect the road. At the bridge... I tried to warn them."
+- Trust 7+: Kixil reveals her sister — Sheel, held by the Deep Jaws. She has been guiding armed surface-dwellers hoping to find ones competent enough to help.
+- Trust 10+: Kixil presses a ceramic dragonmark token into the PC's hand. "Hold this. When the danger comes, squeeze it. I'll know where you are."
+
+**DM Note**: THIS is the emotional heart of Session 1. Everything before leads here. Everything after pays off here. Kixil's trust revelations should feel earned, not checked off a list.
+
+---
+
+### TRAVEL SEGMENT 5: Listening Stone → Mold Warrens
+**Duration**: 4 hours
+
+**Read Aloud**:
+"The warmth of the Listening Stone fades slowly, like a fever breaking. The passage descends — a slope that makes your calves ache. The stone changes. Rough, almost organic. The walls have a texture like tree bark, and when you touch them, they're slightly yielding. The air grows humid. Your torches burn with a violet tinge. Kixil notices immediately. 'Mold spores,' she says, pulling her mask back up. 'Don't breathe deep. Don't touch the walls. The mold remembers what it touches.'
+
+After two hours, you see the first colony — a patch of violet fungus the size of a shield, pulsing with bioluminescent veins. It's beautiful and wrong. And through a gap in the growth: a boot. Human-sized. Old. The mold has claimed it."
+
+**Travel Choice — The Mold Wall**:
+- **Burn it**: Path cleared in 10 min. DC 14 CON or poisoned 1h. Smoke visible = Pursuit +1.
+- **Cut through**: DC 14 Survival/Nature, 1 hour. Fail: DC 13 CON or poisoned + 1d6 poison.
+- **Find a bypass**: DC 16 Perception, 30 min. Kixil helps (+2 if Trust >= 7).
+
+**Travel Hazard — The Claimed**:
+"A Tharashk mercenary body, desiccated, overtaken by mold. On the body: 12gp, Tharashk badge, burned note: 'Velder wants the focus stone by month's end. The drake is just a guard dog.'"
+- Wait — Velder doesn't exist. The note is a forgery, planted by someone who wants the party to think House Cannith is involved. DC 14 Insight to detect the forgery. Who planted it?
+
+**Kixil Moment**:
+- Trust 6-10: "I've passed this body three times. Each time the mold grows more. That's why I don't stop walking."
+
+---
+
+### ROOM 4: Mold Warrens
+
+**Type**: Combat/Exploration
+
+**Read Aloud**:
+"The smell first — sweet, rotting, like fruit left too long in summer. Then the color: violet. Every surface coated in a carpet of pulsing fungal growth, bioluminescent veins tracing patterns that almost look like maps. The passage here is wider, older — not kobold-work but something earlier, dwarf-height ceilings, precision-cut stone now swallowed by organic overgrowth. The floor is soft. Not stone-soft — mushroom-soft, giving underfoot like moss. And the sound: a low hum, almost below hearing, felt in the teeth more than heard. Kixil stops at the threshold. She does not enter. 'The mold was not so thick when I walked it last. Something stirs in the deep.'"
+
+**The Mold is NEW** — the Tharashk breach has disrupted the Haka'jhar maintenance cycle. Kobolds would have dealt with this. Why hasn't anyone? Because the illegal prospecting operation broke the road's caretaking.
+
+**Creatures**:
+- **Violet Fungus** x3: AC 5, HP 15, Rotting Touch +2 (1d8 necrotic + poison), Spore Cloud DC 12 CON or poisoned
+- **Gas Spore** x2: AC 5, HP 1, Death Burst (DC 15 CON or 5d8 poison, half on save)
+- **Mold Heart** (the colony center): AC 12, HP 45, Spore Lash +5 (2d6+2 poison), Infection (DC 13 CON or poisoned, repeat each turn)
+
+**Environment**: Torches burn violet. Every surface is soft. Movement at half speed unless walking carefully (DC 12 DEX). The hum: DC 14 Perception to realize it's not the mold — it's something beneath the mold. Something breathing.
+
+**DM Note**: The mold is a clue, not a generic hazard. The party should ask "why is this here?" and the answer should lead them to the Tharashk connection.
+
+---
+
+### TRAVEL SEGMENT 6: Mold Warrens → Iron Shrine
+**Duration**: 2 hours
+
+**Read Aloud**:
+"The mold thins gradually, like clearing fog. The stone returns to proper stone — hard, unforgiving, real. The air clears. And then you hear it: water. Running water. Loud. A waterfall, or an underground river. Kixil's pace quickens — the first time you've seen her hurry. 'The Last River,' she says. 'Before the shrine. Clean water. Real water.' The passage opens onto a ledge overlooking a subterranean river, thirty feet across, moving fast. On the far bank: a path."
+
+**Travel Choice — The River Crossing**:
+- **The Ford**: DC 12 Athletics group check. Kixil helps (+2). Fail: swept downstream, 1d6 bludgeoning.
+- **Upstream Bridge**: +1h detour. DC 14 DEX or fall into river.
+- **Magic**: Bypass entirely. Kixil: "Magic. The easy way." (tone unclear)
+
+**Travel Hazard — The Current's Gift**:
+"Something brushes your leg in the water — large, sinuous. Then it's gone."
+- Whatever it was doesn't attack. Foreshadowing for something deeper in the mountain.
+
+**Kixil Moment**:
+- Trust 10: "One more crossing. Then the shrine. Then... your road and mine split. I've never been beyond it. No kobold has, not and returned. I'm afraid."
+
+---
+
+### ROOM 5: Iron Shrine
+
+**Type**: Rest/Cliffhanger
+
+**Read Aloud**:
+"Before you stands the Iron Shrine — a massive wrought-iron structure shaped like a dragon's claw gripping a stone lantern, set into a natural alcove in the passage wall. The claw is eight feet tall, five kobold hands forged together. The stone lantern burns with soft orange fire. Above the claw: a shrine niche containing offerings — polished stones, ceramic tokens, a bone whistle. Draconic script carved into the wall. Kixil sits cross-legged before it, head bowed."
+
+**The Shrine Message** (from Skaleth):
+Carved in fresh script (not ancient): "The blood seer watched you pass. The marks you carry are older than this road. Older than the Dhakaani. When you reach the surface city, remember: the sealed gate was closed for a reason. Do not open what you do not understand. — S."
+
+**Session 1 Cliffhanger**:
+"Beyond the shrine: the passage continues. Two days to Paluur Draal. Two days that will change everything. Kixil checks her lantern one last time. 'The road's last kindness. After this, no more forks. Just the deep road, and what waits at the end.'"
+
+**Urgency**: Mold Clock +1 (aggressive growth encountered)
+
+---
+
+## SESSION 2: Into the Deep
+
+**Cold Open**: "You wake to the smell of smoke. Kixil is already on her feet, her soul-lantern extinguished, staring into the darkness ahead. 'Mercenaries,' she breathes. 'On the road. This has never...' She trails off. Ahead, around a bend: firelight. Voices — Common, not Draconic. The clank of armor. You are five level-3 adventurers. You have been walking for six days. And you have just stumbled into the Tharashk camp. The camp Vrathek sent you to clear."
+
+---
+
+### TRAVEL SEGMENT 7: Session 2 Cold Open
+
+**Kixil's Anti-Leader Moment**: "Not my job to decide. You hired me to walk, not to think. You do what you want." (Her voice is smaller than usual.)
+
+**Travel Choice — Mercenary Blockade**:
+- **Approach openly**: Suspicion Clock starts at 2. Halvern is prepared.
+- **Stealth approach** (Trust 7+): Kobold bypass tunnel. DC 14 Stealth. Advantage on first combat round.
+- **Kixil handles it**: She approaches alone. Returns with full camp layout. Trust +1.
+
+---
+
+### ROOM 6: Tharashk Camp
+
+**Type**: Combat/Infiltration (parallel clock scenario)
+
+**Read Aloud**:
+"The passage opens into a massive natural cavern converted into a military encampment. Three zones: a command post with maps and a sending stone, a barracks with bedrolls and mercenaries playing dice, and a storage area with Tharashk-branded crates and mining equipment. A central fire pit provides the main light. Iron cages in one corner — one holds a prisoner, another is empty. Halvern moves through the camp with the ease of someone used to being obeyed."
+
+**Two Parallel Pressures**:
+1. **Environmental wrong**: Illegal prospecting on Haka'jhar territory (Vrathek's quest)
+2. **Personal wrong**: The Black Seal bounty (30,000g on your heads)
+
+**The Camp is THE PATH** — Vrathek sent you here. The bounty is a parallel problem.
+
+**Three Parallel Clocks**:
+1. **Tharashk Suspicion** (4 segments): Fills when detected. Full = lockdown.
+2. **Reinforcement Timer** (real-time 15 min): Tharashk supply wagon arrival.
+3. **Halvern's Patience** (4 segments): Fills when pressured. Full = she attacks.
+
+**Outcome Bands**:
+- Clean Infiltration (0-1 Suspicion): Slipped through undetected. No combat.
+- Noisy Extraction (2-3 Suspicion): Fought some guards. Evidence left behind.
+- Fight and Flight (4 Suspicion, Halvern alive): Full combat. Escape possible.
+- Caught (4 Suspicion, Halvern dead): Camp in chaos. Reinforcements incoming.
+
+**Halvern — Karrnathi Deserter**: AC 16, HP 52. Greataxe +5 (1d12+3). Her secret: she's a Karrnathi deserter. If exposed, she'll negotiate rather than fight to the death. She knows the operation is illegal and is being paid to keep quiet.
+
+**DM Note**: This is the centerpiece of Session 2. The parallel clocks create genuine tension. Every choice matters. The camp should feel alive — mercenaries gambling, someone cooking, the sound of mining echoing from a side passage.
+
+---
+
+### TRAVEL SEGMENT 8: Tharashk Camp → Last Spring
+**Duration**: 3 hours
+
+**Read Aloud**:
+"The passage beyond the camp is different — Dwarf-work, precise angles, mason's marks still visible. Tharashk has been expanding the passage. 'They're building a highway,' Kixil mutters, disgusted. 'The road was never meant for wagons.' After an hour, you pass a Tharashk supply cache — crates of rations, lanterns, rope, marked with Cannith labels."
+
+**Travel Choice — Supply Cache**:
+- Take supplies: Gain rations/lanterns/rope. Pursuit Clock +2 (marked gear).
+- Leave it: Trust +1. Kixil approves.
+- Sabotage: DC 14 Sleight of Hand. Contaminate rations.
+
+**Travel Hazard — Tharashk Patrol**:
+"Three Tharashk scouts — kobold auxiliaries. They spot you immediately. One recognizes Kixil. 'Road-keeper. You're early.'"
+- DC 14 Persuasion: They let you pass, report to Halvern (+1 Suspicion).
+- Fight: 3 Tharashk Scouts (AC 14, HP 18). Escape = max Suspicion.
+
+**Kixil Moment**:
+- Trust 6-10: "The scout called me Road-keeper. That's what we used to be. Now Tharashk pays kobolds to be their eyes."
+
+---
+
+### ROOM 7: Last Spring / Bone Stair
+
+**The Last Spring**: A hidden grotto where an underground river surfaces. Crystal clear water, cold and clean. **Just water** — no magical healing. But it IS the last fresh water before Paluur Draal. Gargoyles come here to drink. Evidence: broken stone feathers, claw marks, half-eaten fish.
+
+**The Bone Stair**: A staircase carved through fossilized remains, ascending through ancient seabed. Uneven steps, each a different height. Walls lined with impressions: a ribcage the size of a wagon, a jaw with teeth like daggers. "Old bones," Kixil murmurs. "Older than the road. The mountain was alive once."
+
+**Inscription at the Spring**: "The guardian below stirs. Do not wake it with fire." — Dhakaani warning, DC 14 Investigation. Foreshadows the drake.
+
+**DM Note**: Cut the magical healing water. The spring is just water. The gargoyle evidence is the interesting part — it sets up the Vadalis splicer's introduction.
+
+---
+
+### TRAVEL SEGMENT 9: Last Spring → Paluur Draal
+**Duration**: 2 hours
+
+**Read Aloud**:
+"At the top of the stair, the air changes — drier, warmer, carrying the unmistakable scent of burned stone. Sulfur. Hot metal. Ash. Kixil stops. Sniffs. 'We're close. Paluur Draal is ahead. And the drake... the drake is closer.'"
+
+**Travel Choice — Speed vs. Stealth**:
+- Quick: Normal time. DC 14 Stealth group check or drake is alerted.
+- Stealth: +1h, exhaustion, but auto-pass stealth check.
+- Kixil's route (Trust 7+): Kobold maintenance passage. Normal time, auto-stealth.
+
+**Travel Hazard — The Drake's Mark**:
+"Scorched stone, claw marks three inches deep in solid granite, fresh bones of a pack animal. Kixil crouches beside it. 'Fire drake. Adult. It's marking territory.'"
+- DC 14 Survival: Drake patrols 2h radius. Was here 8-12h ago. Returns in 4h.
+
+**Kixil Moment**:
+- Trust 10: She presses a ceramic token into the PC's hand. "Hold this. When the drake comes, squeeze it. I'll know where you are."
+
+---
+
+### ROOM 8: Paluur Draal
+
+**Type**: Exploration/Arrival (SURFACE RUIN, not underground)
+
+**Read Aloud**:
+"At the bottom of the descent, the passage opens — and you step out into the open air. After six days of tunnel and cave, the sky is a shock: grey mountain light filtering through broken archways. Before you, the ruins of Paluur Draal. Brutalist towers of dark stone rise from a mountain plateau, angular and functional, their proportions wrong for human hands. Hexagonal pillars three stories tall. Sharp geometric archways. A toppled statue of a Dhakaani warrior lies in the central plaza. And everywhere — the daelkyr corruption: purple-black tendrils growing from cracks, bulbous violet growths pulsing with light, the architecture subtly twisted out of true."
+
+**Setting**: 5,000-year-old Dhakaani hobgoblin city destroyed by daelkyr during the fall of the empire. Gnomes and kob explored and looted — they did NOT build it. The Library of Korranberg studies what they pull from its ruins.
+
+**The Vadalis Splicer**: Wounded, sitting against fallen stonework, crossbow across her lap. "You're not the rescue I was hoping for. But you'll do. The gargoyles are nesting in the upper vaults. Twelve of them, last I counted."
+
+**The Sealed Corridor**: A gate covered in goblinoid script and daelkyr warning sigils — an eye within a twisting spiral. Purple-black corruption seeps from cracks. Iron bands etched with duur'kala warding runes. This is a **daelkyr-spawn seal** — something the Dhakaani locked away during the fall. Opening it unseals something worse than the drake.
+
+**DM Note**: The surface reveal should feel like EMERGING. Six days underground, then sky. The scale should hit them — a dead metropolis, not a cave. The daelkyr corruption is the visual signature that tells them this place fell to something alien.
+
+---
+
+### TRAVEL SEGMENT 10: Paluur Draal → The Breach
+**Duration**: 1 hour
+
+**Read Aloud**:
+"Marrun leads you through the ruins — scorched buildings, collapsed towers, the central fountain dry. The Dhakaani stonework is everywhere: massive brutalist arches, goblinoid script, the scale built for hobgoblins, not humans. She leads you to the sealed corridor — a gate of wrought iron and stone, covered in warning sigils in four languages: Common, Draconic, Goblin, Orc. All say the same thing: DO NOT ENTER. The gate is broken. Not forced — unlocked. Someone opened it recently."
+
+**Travel Choice — The Approach**:
+- Direct: Drake knows you're coming.
+- Flank (DC 16 Stealth, +30 min): Advantage on first round.
+- Environmental setup (+1h, DC 14 Investigation): Create falling debris (2d6 bludgeoning), steam vent, or noise distraction.
+
+**Travel Hazard — The Sealed Gate's Secret**:
+"DC 14 Arcana: The gate wasn't meant to keep people OUT. It was meant to keep something IN. The drake didn't break out — it was always on this side. Something ELSE is sealed deeper."
+
+**Kixil Moment**:
+- Trust 1-7: "This is where I stop. My road ends at the gate."
+- Trust 8-10: "I lied. My road ends where I say it ends. I'm coming."
+
+---
+
+### ROOM 9: The Breach / The Drake
+
+**Type**: Climax Combat
+
+**The Drake**: A Dhakaani war-creature awakened by the sealed corridor being disturbed. Tied to the daelkyr seal — killing it might unseal something worse.
+
+**E.A.S.E. Combat Brief**:
+- **Environment**: 80ft diameter cavern, 60ft ceiling. Central magma vent (20ft diameter, 10d10 fire). Ledges at 20ft. Two ancient Dhakaani statues (climbable). Southwest ceiling shows stress fractures (collapse zone).
+- **Atmosphere**: Suffocating heat. The drake's presence is felt before it's seen — temperature rises as you approach.
+- **Senses**: Heat pressing like a forge; magma bubbling; underneath the sulfur, the clean sharp scent of cold (Marrun knows: cold vulnerability is real).
+- **Events**: The drake arrived a month ago, awakened by seal disturbance. Territorial, arrogant, does not expect a fight.
+
+**Cave Guardian Drake**:
+- Large dragon (war-creature), AC 17, HP 115, Speed 40ft fly 60ft
+- Multiattack: Bite +8 (2d6+4 piercing) + Claw +8 (1d8+4 slashing)
+- Fire Breath (recharge 5-6): 30ft cone, DC 14 DEX, 8d6 fire (half on save)
+- **Fire Healing**: If the drake takes fire damage, it heals for half the damage instead. This is a Khyber shard resonance — DC 14 Arcana to identify after observing once.
+- **Cold Vulnerability**: Takes double damage from cold. This is the key to the fight.
+- Lair Action (init 20): Magma vent erupts — DC 14 DEX, 3d6 fire in 10ft radius.
+
+**Tactical Features**:
+- Magma vent (center): 10d6 fire damage if knocked in.
+- Broken pillars: Half cover.
+- Dhakaani statues: Climbable, high ground advantage.
+- Collapse zone (southwest): Loud noise or structural damage brings down the ceiling (4d6 bludgeoning, drake pinned for 1 round).
+
+**Kixil Trust-Based Aid**:
+- Trust 1-3: Finds a hiding spot. "Not my fight."
+- Trust 4-6: Throws her lantern as a distraction. Drake loses next action tracking the light.
+- Trust 7-9: "The southwest ceiling. Loud noise brings it down."
+- Trust 10: Fights alongside, guiding PCs to tactical positions.
+
+**DM Note**: The fire healing is the puzzle. Once the party realizes fire heals it, they need to pivot to cold damage or environmental kills (the collapse zone). The fight should feel desperate, then clever.
+
+---
+
+### TRAVEL SEGMENT 11: The Breach → The Joining
+
+**Read Aloud**:
+"The drake's body hits the stone with a sound like a mountain falling. The heat drops immediately. Steam rises from the corpse. For a moment: silence. Breathing. Then: footsteps. From the shadows, the Vadalis splicer emerges. 'Well,' she says, assessing. 'I was prepared to wait another week.' She smiles — exhausted, relieved, alive. 'I'm [name]. And you, it seems, are my ride out of here.'"
+
+**Kixil Moment** (Trust 10):
+"Thirty-two crossings. Thirty-two returns. The road will remember you. I'll make sure of it."
+
+---
+
+### ROOM 10: The Joining (Session End)
+
+**What Happens** (no Trust agent capstone):
+1. The **Vadalis splicer joins** the party as PC #7
+2. The **gargoyle problem opens up** — twelve gargoyles in the upper vaults, nesting, a future problem
+3. The **Mirveth Lethis lead** points toward Korranberg — Vrathek's quest must be completed
+4. The sealed corridor remains sealed — for now
+5. The Trust meeting is deferred — it happens in Korranberg, on Trust terms, about Cyrus's Mark of Death
+
+**Three Developments**:
+- The splicer: "I can help with the gargoyles. But first, we need to get off this mountain."
+- The road ahead: The Korranberg thread — carrying word to Mirveth Lethis
+- The deeper mystery: What the sealed corridor contains, and who opened the gate
+
+---
+
+## NPC PROFILES
+
+### Kixil (Ally — Road Guide)
+- **She/her, CHA 8**. Kobold Scout/Rogue equivalent.
+- **AC 14, HP 16 (3d6+6), Speed 30ft, Darkvision 60ft**
+- **STR 8 (-1), DEX 16 (+3), CON 14 (+2), INT 12 (+1), WIS 14 (+2), CHA 8 (-1)**
+- **Skills**: Stealth +5, Survival +4, Perception +4, History +3
+- **Actions**: Dagger +5 (1d4+3 piercing), Sling +5 (range 30/120, 1d4+3 bludgeoning)
+- **Traits**: Pack Tactics, Sunlight Sensitivity, Roadwise (cannot be lost underground)
+- **Motivation**: Clutch-sister Sheel held by Deep Jaw kobolds. Guides armed surface-dwellers hoping to find help.
+- **Three Trust Revelations**: (1) The sister — revealed through shared danger. (2) Why she walks — revealed through vulnerability. (3) Deep Jaw intel — revealed at high trust near the end.
+- **Voice**: Gruff, short sentences, Draconic proverbs. "Not my job to decide. You hired me to walk, not to think."
+
+### Skaleth (Ally — Haka'jhar Blood Seer)
+- **She/her**. Elderly kobold shaman.
+- **AC 12, HP 24 (4d8+4), Speed 30ft, Darkvision 60ft**
+- **STR 8 (-1), DEX 10 (+0), CON 12 (+1), INT 14 (+2), WIS 16 (+3), CHA 14 (+2)**
+- **Skills**: Arcana +4, Insight +5, Medicine +5, Religion +4
+- **Actions**: Blood Rite (ritual, 10 min — discerns dragonmarks/curses), Quarterstaff +2 (1d6-1), Spare the Dying
+- **Traits**: Mark of Death Recognition (already performed blood rite on Cyrus and Clarari), Ritual Caster (Detect Magic, Identify, Speak with Dead)
+- **Role**: The bridge between the kobold arc and the dragonmark arc.
+
+### Vrathek (Neutral — Haka'jhar Chieftain)
+- **She/her**. Pragmatist, not villain.
+- **AC 14, HP 38 (6d8+12), Speed 30ft, Darkvision 60ft**
+- **STR 14 (+2), DEX 14 (+2), CON 14 (+2), INT 12 (+1), WIS 16 (+3), CHA 14 (+2)**
+- **Skills**: Insight +5, Persuasion +4, Intimidation +4, Survival +5
+- **Actions**: Spear +4 (1d8+2 piercing), Command (ally attacks as reaction), Parley (DC 12 WIS or charmed 1 min)
+- **Traits**: Kobold Leadership (+1 attacks/saves within 30ft), Tunnelfighter, Pragmatist
+
+### Halvern (Enemy — Tharashk Mercenary Captain)
+- **She/her. Karrnathi deserter.**
+- **AC 16, HP 52 (7d8+21), Speed 30ft, Darkvision 60ft**
+- **STR 16 (+3), DEX 14 (+2), CON 16 (+3), INT 12 (+1), WIS 14 (+2), CHA 13 (+1)**
+- **Skills**: Perception +4, Insight +4, Intimidation +3, Survival +4
+- **Actions**: Multiattack (2 greataxe), Greataxe +5 (1d12+3 slashing), Mark the Target (recharge 5-6 — allies get advantage)
+- **Secret**: Karrnathi deserter. If exposed, she'll negotiate rather than fight. Knows the operation is illegal.
+
+### Dresh Vane (Enemy — Tharashk Tracker)
+- **He/him. Half-orc, Mark of Finding.**
+- **AC 15, HP 45 (6d8+18), Speed 30ft, Darkvision 60ft**
+- **STR 12 (+1), DEX 16 (+3), CON 14 (+2), INT 14 (+2), WIS 16 (+3), CHA 10 (+0)**
+- **Skills**: Perception +5, Survival +5, Insight +5, Stealth +5, Investigation +4
+- **Actions**: Shortsword +5 (1d6+3), Hand Crossbow +5 (range 30/120), Hunter's Mark (+1d6 damage, tracking)
+- **Traits**: Mark of Finding (Locate Object/Creature 1/day), Patient Tracker, Black Seal Contract (30,000g bounty)
+
+### Breck Solvar (Enemy — Tharashk Enforcer)
+- **He/him. Human, muscle.**
+- **AC 16, HP 55 (6d10+18), Speed 30ft, Darkvision 60ft**
+- **STR 18 (+4), DEX 12 (+1), CON 16 (+3), INT 8 (-1), WIS 10 (+0), CHA 10 (+0)**
+- **Skills**: Athletics +6, Intimidation +2
+- **Actions**: Greatsword +6 (2d6+4 slashing), Javelin +6 (1d6+4), Shoving Attack (DC 14 STR or prone)
+- **Traits**: Brute (+1 damage die), Second Wind (1d10+6), Relentless (DC 10 CON to drop to 1 HP)
+
+### The Vadalis Splicer (Ally — Joins at Paluur Draal)
+- **She/her. Wounded House Vadalis operative.**
+- **AC 14, HP 28 (5d8+5), Speed 30ft**
+- **STR 12 (+1), DEX 16 (+3), CON 12 (+1), INT 14 (+2), WIS 14 (+2), CHA 10 (+0)**
+- **Skills**: Animal Handling +4, Nature +4, Survival +4, Medicine +4
+- **Actions**: Crossbow +5 (1d8+3 piercing), Dagger +5 (1d4+3 piercing), Splicer's Gift (1/day — bond with a beast for 1 hour, shared senses)
+- **Dragonmark**: Mark of Handling (stylized animal patterns on forearm)
+- **Background**: Has been dealing with gargoyles in the Dhakaani ruins. Standard ranger or artificer class. NOT a homebrew "Tamer."
+
+---
+
+## REFERENCE TABLES
+
+### Road Phenomena (d12)
+Roll when the DM calls for a road check.
+
+| Roll | Phenomenon |
+|------|-----------|
+| 1 | Glow-moth swarm — brief constellation light |
+| 2 | Warm water dripping from above — hot spring overhead |
+| 3 | Ancient chisel marks — miner's tally counting down |
+| 4 | Distant rhythmic drums from below the road |
+| 5 | Emergency supply cache hidden in a crack |
+| 6 | Wall polished smooth as glass, covered in tiny handprints |
+| 7 | Air pressure shifts — everyone's ears pop |
+| 8 | Kobold shrine: polished stones, bone figurine |
+| 9 | Underground river visible through floor crack |
+| 10 | Temperature drops sharply for 100ft, then normal |
+| 11 | Writing: "DAY 7. FOOD GONE. GOING BACK UP." (old) |
+| 12 | Kixil stops, sniffs, changes route without explanation |
+
+### Camp Encounters — Upper Passage (d12, 40% quiet)
+| Roll | Encounter | Threat |
+|------|-----------|--------|
+| 1 | Quiet Night — nothing stirs | None |
+| 2 | Draconic whispers: "The road watches" | None |
+| 3 | Glow-moth swarm — stealth impossible | Low |
+| 4 | 2 Deep Jaw Scouts watching from shadows | Low |
+| 5 | Stone grind — DC 12 DEX or half rest | Low |
+| 6 | Water seep — must relocate camp | Low |
+| 7 | Corpse light (will-o'-wisp) leads toward Mold Warrens | Medium |
+| 8 | Kobold funeral procession passes nearby | None |
+| 9 | 3d6 dire rats attracted by food | Medium |
+| 10 | Fungal bloom — DC 13 CON or poisoned 1h | Low |
+| 11 | 3 Tharashk Scouts, hostile if recognized | Medium |
+| 12 | A figure watches from lantern light — gone by morning | None |
+
+### Camp Encounters — Deep Road (d12, 30% quiet)
+| Roll | Encounter | Threat |
+|------|-----------|--------|
+| 1 | Quiet Night — deep silence | None |
+| 2 | Mold creep advancing toward camp | Low |
+| 3 | Drake scream — DC 12 WIS or frightened | Medium |
+| 4 | 4 wounded kobold refugees (information for healing) | None |
+| 5 | Magma vent opens — 1d6 fire damage | High |
+| 6 | Tharashk Night Raid (4 mercenaries) | High |
+| 7 | Echoes of battle (past, not real) — loot: 1d10 gp | None |
+| 8 | 3 Deep Jaw kobolds demand toll | Medium |
+| 9 | Fungal zombie shambling toward camp | Low |
+| 10 | Cannith courier willing to trade | None |
+| 11 | Partial collapse blocks route backward | Medium |
+| 12 | Trust agent observes from darkness | None |
+
+### Camp Encounters — The Breach (d12, 15% quiet)
+| Roll | Encounter | Threat |
+|------|-----------|--------|
+| 1 | Eerie silence — drake hunting elsewhere | None |
+| 2 | 1 Fire Drake Whelp scouting (killing it enrages adult) | Medium |
+| 3 | Drake flyover — DC 14 Stealth group check or detected | High |
+| 4 | 2 Tharashk deserters with drake intel | None |
+| 5 | Magma surge — 2d6 fire damage | High |
+| 6 | Khyber shard whispers — DC 13 WIS or hear voices | Medium |
+| 7 | 3 Tharashk mercenaries searching for deserters | Medium |
+| 8 | Ancient trap — DC 14 DEX, 2d8 piercing | High |
+| 9 | 2d4 mold-zombies drawn by warmth | Medium |
+| 10 | Trust agent steps into camp for conversation | None |
+| 11 | Drake attacks camp directly | Deadly |
+| 12 | Major earthquake — 3d6 bludgeoning, opens new passage | High |
+
+### While You Wait (d6)
+Roll when players spend more than 5 minutes debating.
+
+| Roll | Consequence |
+|------|------------|
+| 1 | Water seeps into passage — ankle-deep in 10 min |
+| 2 | Kobold scouts clicking nearby — listening, then silence |
+| 3 | Tremor. Rocks fall. DC 12 DEX or 1d6 bludgeoning |
+| 4 | Torches flicker. Air thins. Harder to breathe |
+| 5 | Kixil fidgets. "Standing still is how you get found" |
+| 6 | Distant scream from a passage you're NOT taking |
+
+### Invisible Clocks
+
+**Deep Road Instability** (6 segments): Fills when explosive magic used, fights in unstable areas, lingering >1 day. Half: dust falls, small cracks appear. Full: major collapse blocks route.
+
+**Tharashk Alert** (4 segments): Fills when kobolds killed, loud noises, signal fires. Half: distant horn-calls. Full: Tharashk mobilizes, encounters +50% difficulty.
+
+**Hidden Observer** (3 segments): Fills when party acts cruel or reveals weaknesses. Half: tokens left at campsites. Full: enemies know party composition and route.
+
+---
+
+## IMAGE CATALOG
+
+All images generated for this adventure, with their prompts and usage.
+
+### Key Art (16:9)
+| File | Used On | Prompt |
+|------|---------|--------|
+| `/hero-bg.jpg` | Home | Dark fantasy underground kobold tunnel. Winding stone passage through dark granite, amber torchlight, Draconic runes, mineral veins. Kobold silhouette with glowing soul-lantern. Cinematic wide shot, matte painting, warm amber accent lighting. |
+| `/crossroads.jpg` | Session 1 | Dark fantasy horror underground. Cathedral cavern where kobold road forks — stone bridge with cold blue fire left, low tunnel right, standing stone with Draconic runes between. Kobold figure with lantern between paths. Oppressive, cold palette with blue accent. |
+| `/bridge-of-bones.jpg` | Session 1 | Sixty-foot bridge over lightless chasm. Intermingled dragon and kobold bones between paving stones. Skeleton at apex with cold blue lantern. Freezing air, bone-white, deep shadow. |
+| `/the-crawl.jpg` | Session 1 | Suffocating 3-foot tunnel through dark granite. Body-warm floor, spiderweb ceiling cracks with ochre water seeping through. Something pale and segmented at the far end. Claustrophobic, oppressive. |
+| `/listening-stone.jpg` | Session 1 | Natural cathedral cave with stone pillar covered in glowing azure Draconic script. Kobold guide sitting cross-legged before it. Warm amber and azure blue lighting, intimate and sacred. |
+| `/mold-warrens.jpg` | Session 1 | Every surface coated in pulsing violet fungal growth. Bioluminescent veins tracing map-like patterns. Massive fungal heart colony. Kobold figure at threshold. Violet-dominated, alien atmosphere. |
+| `/iron-shrine.jpg` | Session 1 | Massive wrought-iron dragon claw gripping stone lantern with orange fire. Shrine niche with offerings. Kobold guide sitting cross-legged. Warm orange light against deep shadow. |
+| `/tharashk-camp.jpg` | Session 2 | Large underground cavern converted to mercenary camp. Three zones (command, barracks, storage), fire pit, iron cages, half-orc captain. Tharashk colors, warm firelight against cold stone. |
+| `/last-spring.jpg` | Session 2 | Modest natural spring in rough stone cavern. Clear still water, no magic. Gargoyle evidence — broken stone feathers, claw marks, half-eaten fish. Traveler's lantern on rock. Muted warm tones. |
+| `/paluur-draal.jpg` | Session 2 | **SURFACE RUIN** — Dhakaani hobgoblin city on mountain plateau. Grey sky through broken archways. Brutalist hexagonal pillars, toppled warrior statue. Daelkyr corruption: purple-black tendrils, violet growths, warped stoneware. Tharashk mining equipment. |
+| `/the-breach.jpg` | Session 2 | Dhakaani war-forge chamber. Magma vent glowing orange. Drake with armor-like fused scales on ledge. Broken pillars, forge equipment, war-machines. Smoke, heat shimmer, oppressive. |
+| `/sealed-corridor.jpg` | Session 2 | Dhakaani sealed gate with goblinoid script, daelkyr eye spiral, purple-black corruption seeping from cracks. Iron duur'kala warding bands. Kobold figure studying seals. |
+| `/the-joining.jpg` | Session 2 | Wounded Vadalis splicer meeting adventurers in Dhakaani plaza. Six silhouetted figures emerging from passage. Broken hobgoblin statues, goblinoid script. Bioluminescent fungi light. |
+
+### NPC Portraits (3:4)
+| File | Used On | Prompt |
+|------|---------|--------|
+| `/npc-kixil.jpg` | NPCs, Session 1 | Female kobold road guide. Scarred, one cloudy eye, amber sharp eye. Weathered coat, bone tokens, soul-lantern. Walking staff with Draconic marks. Gruff, tired, competent. |
+| `/npc-halvern.jpg` | NPCs, Session 2 | Half-orc mercenary captain at rough table. Tharashk armor, Karrnathi scar. Sending stone, maps, Karrnathi spirits flask. Calculating, professional. |
+| `/npc-vrathek.jpg` | NPCs | Female kobold chieftain. Dark bronze scales with silver streak. Cave-bear fur mantle, silver wire crown with Khyber shards. Stone mace with clan marks. Authoritative pragmatist. |
+| `/npc-skaleth.jpg` | NPCs | Elderly kobold blood seer. Crimson scales faded to rust. Bone staff with Khyber shard. Cave paintings of dragons, blood drops, Mark of Death. Ominous, wise. |
+| `/npc-dresh.jpg` | NPCs | Half-orc Tharashk operative. Mark of Finding on neck. Weathered green-grey skin, pale unblinking eyes. Forest green leathers, dragonshard focus. Methodical, patient. |
+| `/npc-breck.jpg` | NPCs | Massive human enforcer. Shaved head, braided beard with token-bones. Heavy scale armor, greataxe, manacles. Harsh firelight. |
+| `/npc-splicer.jpg` | NPCs, Session 2 | Wounded House Vadalis operative. Mark of Handling on forearm. Torn leather armor, crossbow, bandaged. Gargoyle silhouettes behind. Exhausted but alert. |
+
+### Battle Maps (1:1)
+| File | Used On | Prompt |
+|------|---------|--------|
+| `/map-crossroads.jpg` | BattleMaps | Top-down tactical map. Natural cavern with fork — bridge left, tunnel right, standing stone center. Gridless, dry brush, parchment texture. |
+| `/map-bridge.jpg` | BattleMaps | Top-down tactical map. Stone bridge over chasm with intermingled bones. Skeleton at apex. Gridless, dry brush, parchment. |
+| `/map-camp.jpg` | BattleMaps | Top-down tactical map. Three-zone mercenary camp in cavern. Gridless, dry brush, parchment. |
+| `/map-breach.jpg` | BattleMaps | Top-down tactical map. Cavern with magma vent, broken pillars, drake ledge, collapse zone. Gridless, dry brush, parchment. |
+
+---
+
+## DM GUIDANCE SUMMARY
+
+### What This Adventure Is About
+The Stone Passage is a **highway**, not a dungeon. Every room is a place kobolds walk through regularly. The tension comes from what's gone wrong on the road — Tharashk's illegal mining, the drake, the Deep Jaw toll — not from ancient traps.
+
+### Core Principles
+- **Forks over Flow**: The party always has a choice. No railroad.
+- **Layered Reveal**: Information comes in layers — first impression, closer look, expert analysis.
+- **The Clock is Always Ticking**: Every rest, every delay advances something.
+- **Not Against the Players**: The road is dangerous but fair. Death comes from bad decisions, not bad dice.
+
+### What Got Cut (and why)
+- **Velder ir'Kannith**: Didn't exist in the campaign
+- **Niraza/Trust agent in dungeon**: Trust meeting deferred to Korranberg
+- **Nissa d'Sivis**: Deus ex machina courier — did players' job for them
+- **Construct-as-key**: Clank is a PC, not an object
+- **"The Tamer" homebrew**: Replaced with Vadalis splicer (standard class)
+- **Magical healing water**: Cut to one magical water beat (Listening Stone)
+- **"First group didn't return"**: Cliche mentor backstory
+- **"It is not a weapon. It is a key."**: Cliche line from 40 other works
+- **Cave-maws (homebrew)**: Replaced with giant fire beetles/carrion crawlers
+
+### What This Sets Up
+- The Korranberg thread (Mirveth Lethis)
+- The Trust meeting (Cyrus's Mark of Death)
+- The sealed corridor (daelkyr-spawn, future adventure)
+- The gargoyle problem (Vadalis splicer's thread)
+- The Deep Jaw confrontation (Kixil's sister rescue)
+
+---
+
+*This document was compiled from the Stone Passage Dungeon Companion v7, a campaign-corrected rewrite matching the actual Eberron campaign canon. All content, images, and prompts are included for reference and regeneration.*
