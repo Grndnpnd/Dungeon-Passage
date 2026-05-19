@@ -90,10 +90,10 @@ The passage winds downward at a gentle slope. Water drips from somewhere above, 
 - **Left → Bridge of Bones** (Smoke Road, 6 hours): The quick path. Vrix the Bone-Warden watches from the apex. DC 10 Perception to notice cold blue lantern light.
 - **Right → The Crawl** (3 hours): The low road through warm, humid passages. Faster but tighter.
 
-**Kixil Input** (Trust 4+ reveals more):
-- Trust 1-3: "Bridge is bridge. Cross or don't. Not my job to decide."
-- Trust 4-6: "The bridge is the road's road. Quick, but the dead are proud. Walk soft. Speak softer."
-- Trust 7-10: "Vrix was my ancestor. She watches. She judges. If you mean no harm, she knows."
+**Kixil Input** (she will not recommend either path — this is a player choice):
+- Trust 1-3: "Bridge is two hours if she lets you pass. Crawl is six hours but nothing in it bites. You do what you want. Not my job to decide. You hired me to walk, not to think."
+- Trust 4-6: "I have walked both. I am still walking. The bridge is faster. The crawl is quieter. Pick the one that matches your courage. Walk soft if you take the crawl. Speak softer. The worms punish loud. But the bridge... Vrix does not punish loud. She punishes wrong."
+- Trust 7-10: "Vrix is real. Not a story. But the crawl... you will not die in the crawl. You will just wish you had. Both roads lead to the same place. Eventually. The bridge asks one question. The crawl asks a different one. I cannot answer either question for you. I can only tell you: I have walked both. I am still walking."
 
 ---
 
@@ -110,10 +110,13 @@ The walls are black with soot, but the soot has patterns — handprints, hundred
 - **Main Passage** (human-height, 2h slower): DC 12 CON/hour or exhaustion.
 
 **Travel Hazard — The Dead Scout**:
-"A small chamber with a crack in the ceiling — fresh air pours down. A dead kobold sits in the corner, desiccated, clutching a journal. DC 13 Investigation: map of bridge ahead + warning 'Vrix does not sleep. Vrix waits.'"
+"A small chamber with a crack in the ceiling — fresh air pours down like a waterfall of light. A dead kobold sits in the corner, desiccated, clutching a ceramic token. DC 13 Investigation: the token bears the name Thessk alongside others. A warning scratched beside it: 'Vrix does not sleep. Vrix waits for the forgotten.'"
+- **Read the token**: Warning about Vrix — the key to the Reverence Ladder. The bone must be carried onward. Advantage on first bridge check.
+- **Rest here**: The chamber has fresh air pouring through the ceiling crack. A defensible short rest spot. Kixil allows it: "Breathe while you can. The bridge does not care if you are rested." Regain HP, reset hit dice. Trust +1 if anyone offers Kixil food during the rest.
 
-**Kixil Moment** (if journal found):
-- Trust 6-10: "Nisk. My clutch-sister's friend. She walked alone. The road punished her for it."
+**Kixil Moment** (if token found):
+- Trust 1-5: "Nisk. She was... a friend of my sister. The bridge took her because she tried to leave everything behind. The dead do not want to be left alone."
+- Trust 6-10: "Nisk. My sister's friend. She walked alone. The bridge punished her for leaving the bones untended. If you let me keep this... Trust +1."
 
 ---
 
@@ -132,7 +135,8 @@ The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party tha
 | Disrespect | Mocking the bones, defacing, urinating | Chasm Trap triggers immediately. Everyone DC 14 DEX or fall (4d6 bludgeoning + restrained). Vrix animates and attacks. |
 | Partial | Silent crossing, no interaction | Bridge sways. DC 12 WIS or vertigo for 1 minute. Vrix watches but does not act. The dead are not pleased, but not offended enough to act. |
 | Proper | Take a bone token, carry it forward | Bridge is stable. Vrix nods. The dead are remembered. Gain "Bone Token" — advantage on one CHA check with kobolds. |
-| Excessive | Leaving offerings, bowing, groveling | Vrix despises weakness. Bridge sways violently. DC 14 DEX or fall. Vrix's voice: "The road does not reward cowards." |
+| Excessive — Hoarding | Taking multiple bones, filling pockets, treating bridge as salvage | Soul Light gutters. Bridge lurches. Vrix stands. Combat: Vrix (AC 16, 42 HP) + 3 Specters (22 HP). Hoarder targeted first. Return all but one bone to pacify. |
+| Excessive — Groveling | Prostrating, bowing, leaving offerings without carrying a bone | Vrix ignores the party completely. Bridge is stable. Safe crossing. No blessing, no bone token. They were present at a memorial and forgot to participate. A missed opportunity, not a punishment. |
 
 **Vrix the Bone-Warden** (if combat triggers):
 - AC 14, HP 52, Speed 0 (immobile)
@@ -140,7 +144,12 @@ The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party tha
 - Bone Shatter (recharge 5-6): DC 14 DEX, 3d6 piercing + restrained by bone fragments
 - Spectral Resistance: resistant to non-magical damage
 
+**Kixil Hint — Trust 7+**:
+"The dead want to be carried, not avoided. Walk across in silence and you've already failed. Take something. Carry it forward. That's the only respect Vrix understands."
+
 **DM Guidance**: "The bridge rewards the bold, not the meek. The party that walks with confidence and takes a token has passed. The party that grovels has misunderstood the lesson."
+
+**Solving the Puzzle Fairly**: The read-aloud mentions bones in patterns "resembling script you cannot read" and ceramic tokens "placed by those who understood." A Religion DC 12 check reveals: the text between the bones is Draconic funerary — "May the carried bone remember the road." It explicitly praises those who take bones onward. The dead scout's token in the Smoke Road also warns: "Vrix does not sleep. Vrix waits for the forgotten." Between the read-aloud clues, the dead scout warning, and Kixil's hint at Trust 7+, a party paying attention has multiple paths to the answer.
 
 ---
 
@@ -150,20 +159,18 @@ The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party tha
 **Read Aloud**:
 "After the bridge, the passage seems to exhale. The cold of the chasm fades, replaced by warmth — not the welcome warmth of a fire but the clammy warmth of a sickroom. The walls close in gradually, so gradually you don't notice until your shoulders brush stone. The ceiling drops. Water runs down the walls — ochre-stained, heavy with iron. And the smell: wet earth, hot stone, and underneath it all, something organic. Something alive."
 
-**Travel Choice — The Three Ways**:
-- Left (Safe Road): +2h, no hazards. Kixil prefers this.
-- Right (Warm Road): Normal time, but inhabitants. (See Hazard)
-- Center (The Deep): Kixil refuses. "I will not follow." Trust -2. Deadly encounter.
-
-**Travel Hazard — The Wet Ones** (Right Road):
+**Travel Hazard — The Wet Ones** (this encounter just happens, no choice point):
 "Five heads break the surface — salamanders the size of dogs with blind white eyes and too many teeth. 'Cave-maws,' Kixil whispers. 'Don't move fast. Don't show fear. They bite what runs.'"
+
+The crawlers are scavengers, not hunters. They respect calm movement.
 - DC 14 Animal Handling: Calm them, pass safely.
-- Feed 2 rations: They accept, retreat.
-- Fight: 5 Giant Fire Beetles (AC 13, HP 8, fire glands, 1d6+1 fire).
-- Run: DC 16 DEX or 1d8 piercing + water-borne illness.
+- Light a torch: They retreat from flame.
+- Fight: 2 Carrion Crawlers (AC 13, HP 51, tentacles +8, 1d6+4 poison, DC 13 CON save or paralyzed 1 min).
+- The road is wet, the crawlers are here, and the party reacts. No choice. No fork. Just the road.
 
 **Kixil Moment**:
-- Trust 6-10: "My sister died on the warm road. She slipped. Hit her head. Drowned in six inches of water."
+- Trust 1-5: "Crawlers. Every time. You would think I would be used to them by now. I am not used to them. I will never be used to them."
+- Trust 6-10: "My sister was taken on a passage like this one. Not to the crawlers — to the Deep Jaws. She slipped on the wet stone. They were waiting. I was ahead. I didn't hear. I didn't know until the Listening Stone carried her voice. She is still alive. Still afraid. Still calling my name."
 
 ---
 
@@ -177,12 +184,24 @@ The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party tha
 **The Squeeze**: DC 14 DEX (Athletics) to navigate at normal speed. Fail: half speed, 1d4 bludgeoning from scrapes. Heavy armor: disadvantage.
 
 **The Choker** (lurks at the halfway chamber):
-- AC 14, HP 22, Speed 30ft climb
-- +5 to hit, 1d6+3 bludgeoning + grapple (DC 14 escape)
-- Choke: grappled target DC 14 CON or begin suffocating
-- Camouflage: looks like cave ceiling, DC 18 Perception to spot before it strikes
+- AC 16, HP 24 each (x2), Speed 30ft climb
+- +6 to hit, 1d8+3 bludgeoning + grapple (DC 14 escape)
+- Choke: grappled target DC 14 CON or begin suffocating (1d6+2 bludgeoning/round)
 
-**DM Note**: The choker drops from above. If the party is moving slowly and quietly, give DC 16 Perception to spot it. If they're loud or fast, it gets surprise.
+**Readable Tells — One Round Before Combat**:
+Before the choker drops, the party gets one full round of exploration. Describe:
+- **The sound**: Wet skittering from above, like leather on wet stone. Rhythmic, deliberate.
+- **The smell**: Sharp ammonia, strongest beneath ceiling cracks.
+- **The strand**: Glistening translucent mucus thread hangs from a ceiling crack, trembling. Not spider silk — too thick, too wet.
+- **The marks**: Deep claw gouges clustered at widest points of the chamber.
+
+Passive Perception 13+ notices one tell automatically. Active Perception DC 11 reveals all four. Examining the mucus strand with a stick shows it retract slightly upward — something pulled it back.
+
+**Combat Flow**:
+- **Round 1 (Grab, no damage)**: Choker grabs a PC, hauls them to ceiling. Party sees this and can react.
+- **Round 2+ (Suffocate)**: DC 14 CON save or begin suffocating (1d6+2 bludgeoning/round).
+- **Allies can squeeze past**: DC 14 Athletics (disadvantage in heavy armor) to reach grappled ally.
+- **Death Save Grace**: If a PC drops to 0 HP, choker drags them upward but does NOT kill immediately. It is a scavenger, not a predator. Allies have 2 rounds to intervene.
 
 ---
 
@@ -192,12 +211,11 @@ The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party tha
 **Read Aloud**:
 "After the crawl, the passage opens like a flower blooming in time-lapse. Three feet becomes six. Six becomes ten. Ten becomes a cathedral. Stalactites hang like dragon's teeth. The floor is a lake of perfectly still water, mirror-black, reflecting the stalactites above so perfectly that for a moment you lose track of which way is up. A narrow path of stepping stones crosses the lake — each stone carved with a different rune. Kixil steps onto the first stone without hesitation. 'The Watcher's Pool,' she says. 'Don't look into the water too long. It shows you things. Not true things. Just... things you haven't admitted to yourself yet.'"
 
-**Travel Choice — The Watcher's Pool**:
-- Look: DC 13 WIS save. Success: advantage next Insight. Failure: frightened 1 minute.
-- Don't look: No effect. Kixil approves. Trust +1.
+**The Watcher's Pool — Pure Atmosphere (no save, no damage)**:
+The water shows things. Not true things. Just things the traveler hasn't admitted to themselves yet. Kixil warns the changeling: "Water shows what is hidden. Even from yourself." PCs may describe what they see. Pure roleplay. No mechanical effect.
 
-**Travel Hazard — The Sinking Stone**:
-"The fifth stepping stone wobbles. DC 13 DEX save or foot goes in — 1d4 cold damage."
+**The Fifth Stone**:
+"Careful. Fifth stone wobbles. My clutch-brother slipped there." — Kixil warns the party before they cross. If someone steps on it, they catch their balance (she warned them). No damage. No DC. Just trust. The Watcher's Pool approach is pure atmosphere — no saves, no damage, no mechanics. Let the silence carry the moment.
 
 **Kixil Moment**:
 - Trust 7-10: "I've thought about adding my own name. Just in case. The thirty-second crossing where I don't come back."
@@ -213,13 +231,17 @@ The bridge is NOT about being polite. Vrix wants to be REMEMBERED. The party tha
 
 **The Listening Stone**: Speaking a name to the stone causes it to glow brighter. Speaking a secret causes the azure script to rearrange into a new pattern — a different Draconic proverb. Skaleth's blood-mark is carved at the base.
 
-**Kixil's Campfire Conversation** (Trust 5+, this is where she thaws):
-- "Why do you walk this road?" → "Someone must. The road forgets if no one walks it."
-- "What happened to the first group?" → "They did not respect the road. At the bridge... I tried to warn them."
-- Trust 7+: Kixil reveals her sister — Sheel, held by the Deep Jaws. She has been guiding armed surface-dwellers hoping to find ones competent enough to help.
-- Trust 10+: Kixil presses a ceramic dragonmark token into the PC's hand. "Hold this. When the danger comes, squeeze it. I'll know where you are."
+**Kixil's Trust — Conditional Revelations (NOT Automatic)**
 
-**DM Note**: THIS is the emotional heart of Session 1. Everything before leads here. Everything after pays off here. Kixil's trust revelations should feel earned, not checked off a list.
+Trust starts at **4** (normal journey). If the party survived the Forgotten Road cave-in (near-TPK): start at **5** (Kixil respects survivors). If they showed cowardice: start at **3**. Realistic Trust by the Listening Stone: **6-7**.
+
+Trust moves by 1 for meaningful acts of respect or courage. Lose 1 for cruelty, cowardice, or desecration.
+
+**The Revelations Are Gated by Questions, Not Thresholds Alone:**
+- Trust 7+: Kixil *can* reveal her sister — Thessk, held by the Deep Jaws. But she only does so when players ASK about her personal stake. If they never ask, she never tells. The door is unlocked; the players must open it.
+- Trust 10+: Kixil produces the ceramic token she has carried for thirty-one crossings. "If I don't come back, add my name. 'Kixil walked here. The road was enough.'"
+
+**DM Guidance**: THIS is the emotional heart of Session 1. Do not deliver these as monologues. Deliver them as answers to questions the players ask. Trust is the key that unlocks the door — but the players must turn it.
 
 ---
 
@@ -237,8 +259,8 @@ After two hours, you see the first colony — a patch of violet fungus the size 
 - **Find a bypass**: DC 16 Perception, 30 min. Kixil helps (+2 if Trust >= 7).
 
 **Travel Hazard — The Claimed**:
-"A Tharashk mercenary body, desiccated, overtaken by mold. On the body: 12gp, Tharashk badge, burned note: 'Velder wants the focus stone by month's end. The drake is just a guard dog.'"
-- Wait — Velder doesn't exist. The note is a forgery, planted by someone who wants the party to think House Cannith is involved. DC 14 Insight to detect the forgery. Who planted it?
+"A Tharashk mercenary body, desiccated, overtaken by mold. On the body: 12gp, Tharashk badge, partially burned note: 'Halvern wants the operation cleared by month's end. The drake is guarding the Dhakaani seal. Work around it if you can.'"
+- This reveals Halvern's timeline and that the drake is a Dhakaani guardian, not the real threat. Information advantage at Tharashk Camp.
 
 **Kixil Moment**:
 - Trust 6-10: "I've passed this body three times. Each time the mold grows more. That's why I don't stop walking."
@@ -510,7 +532,7 @@ Carved in fresh script (not ancient): "The blood seer watched you pass. The mark
 - **Skills**: Stealth +5, Survival +4, Perception +4, History +3
 - **Actions**: Dagger +5 (1d4+3 piercing), Sling +5 (range 30/120, 1d4+3 bludgeoning)
 - **Traits**: Pack Tactics, Sunlight Sensitivity, Roadwise (cannot be lost underground)
-- **Motivation**: Clutch-sister Sheel held by Deep Jaw kobolds. Guides armed surface-dwellers hoping to find help.
+- **Motivation**: Clutch-sister Thessk held by Deep Jaw kobolds. Guides armed surface-dwellers hoping to find help.
 - **Three Trust Revelations**: (1) The sister — revealed through shared danger. (2) Why she walks — revealed through vulnerability. (3) Deep Jaw intel — revealed at high trust near the end.
 - **Voice**: Gruff, short sentences, Draconic proverbs. "Not my job to decide. You hired me to walk, not to think."
 
@@ -729,4 +751,4 @@ The Stone Passage is a **highway**, not a dungeon. Every room is a place kobolds
 
 ---
 
-*This document was compiled from the Stone Passage Dungeon Companion v7, a campaign-corrected rewrite matching the actual Eberron campaign canon. All content, images, and prompts are included for reference and regeneration.*
+*This document was compiled from the Stone Passage Dungeon Companion v8, a campaign-corrected rewrite matching the actual Eberron campaign canon. All content, images, and prompts are included for reference and regeneration.*
